@@ -1,7 +1,7 @@
 version: 1
 project:
   # id: 
-  title: "STAT 159 Project 2: Reproducibility in Natural Language Processing"
+  title: "STAT 159/259 Project 2"
   description: "Analyzing State of the Union Addresses by Past US Presidents"
   # keywords: []
   authors: "Samantha Leong"
@@ -14,7 +14,6 @@ project:
     - file: nlp-P02.ipynb
     - file: nlp-P03.ipynb
     - file: nlp-P04.ipynb
-    - file: proj02-nlp.ipynb
     - file: contribution_statement.md
 
     
