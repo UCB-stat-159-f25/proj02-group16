@@ -4,7 +4,15 @@ project:
   title: "STAT 159/259 Project 2"
   description: "Analyzing State of the Union Addresses by Past US Presidents"
   # keywords: []
-  authors: "Samantha Leong, Carly Tran, Josh Gonzales, Ziyu Ge"
+  authors:
+  - name: Samantha Leong
+    affiliation: UC Berkeley Undergraduate Student
+  - name: Carly Tran
+    affiliation: UC Berkeley Undergrad Student
+  - name: Josh Gonzales
+    affiliation: UC Berkeley Undergrad Student
+  - name: Ziyu Ge
+    affiliation: UC Berkeley Graduate Student
   github: https://github.com/UCB-stat-159-f25/proj02-group16
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
