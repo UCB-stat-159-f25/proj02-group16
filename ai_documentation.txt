@@ -2,6 +2,8 @@ Group 16 Use of AI for Project 2
 
 Part 2, Seaborn Heatmap (Carly): I used ChatGPT to clarify how to use the LogNorm 
 
+Part 2, Clarified data subsetting and list storage syntax (Josh)
+
 Part 2, Most Common Words Function (Sami): asked chatGPT to check the syntax of the function, also helped me identify error in str vs. int
 
 Part 3, use AI for "make a visualization using pyLDAvis"
