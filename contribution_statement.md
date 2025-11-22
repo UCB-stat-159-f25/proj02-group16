@@ -5,4 +5,4 @@ Sami - Worked with Josh to complete Part 2 subsetting and word processing. Creat
 
 Ziyu - completed Part 3 and Part 4.
 
-Carly - completed Part 1. 
+Carly - completed Part 1. Completed the section of part 2 to plot the words and the 2017 and 2023 state of union most frequent words. Also completed the TF-IDF Vectorization portion of the part to plot the pca visualization and vectorized speeches heatmap.
