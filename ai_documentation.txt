@@ -4,6 +4,8 @@ Part 2, Seaborn Heatmap (Carly): I used ChatGPT to clarify how to use the LogNor
 
 Part 2, Most Common Words Function (Sami): asked chatGPT to check the syntax of the function, also helped me identify error in str vs. int
 
-Part 4, use AI for "make a visualization using pyLDAvis"
+Part 3, use AI for "make a visualization using pyLDAvis"
+
+Part 4, use AI to construct the frequency table with year and use AI to enhance the plot.
 
 Part 5, MyST Pages & Git Hub (Sami): used AI to figure out how to rename the myst tabs for each notebook, also asked how to correctly write each contributors name
